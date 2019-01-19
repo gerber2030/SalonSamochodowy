@@ -10,6 +10,7 @@ namespace SalonSamochodowy
     {
         public Samochod PobierzSamochodZNajwiekszymWyposazeniem(List<Samochod> samochody)
         {
+            Console.WriteLine("Widzicie zmiany?");
             return null;
         }
 
